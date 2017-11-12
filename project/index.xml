@@ -18,6 +18,8 @@
       <guid>https://ducminhkhoi.github.io/project/action_recognition/</guid>
       <description>&lt;p&gt;Given a video, the task is to recognize the group activity by collectively considering the individual actions.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://ducminhkhoi.github.io/img/projects/action_recognition_2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;This is an implementation of paper: &lt;a href=&#34;https://arxiv.org/pdf/1607.02643&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1607.02643&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is the code: &lt;a href=&#34;https://github.com/ducminhkhoi/lstm_tracking&#34; target=&#34;_blank&#34;&gt;https://github.com/ducminhkhoi/lstm_tracking&lt;/a&gt;&lt;/p&gt;
