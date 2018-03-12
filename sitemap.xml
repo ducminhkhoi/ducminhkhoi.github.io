@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://ducminhkhoi.github.io/post/how_to_use_google_scholars/</loc>
+      <lastmod>2018-03-11T18:19:11-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ducminhkhoi.github.io/post/intro_ml_1/</loc>
       <lastmod>2017-11-11T16:36:18-08:00</lastmod>
     </url>
@@ -136,6 +145,16 @@
     
       <loc>https://ducminhkhoi.github.io/tags/deep-learning/</loc>
       <lastmod>2017-11-11T15:51:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ducminhkhoi.github.io/tags/google-scholars/</loc>
+      <lastmod>2018-03-11T18:19:11-07:00</lastmod>
       <priority>0</priority>
     </url>
     
